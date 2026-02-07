@@ -37,7 +37,7 @@ This project involves:
 
 ## 🛠️ Important Links & Tools:
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
-- **[SQL Server Express]
+- **[MySQL Server]
 - **[SQL Server Management Studio (SSMS)]
 - **[Git Repository]
 - **[DrawIO]
